@@ -42,6 +42,10 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 - Descompactar os arquivos na estrutura mensionada abaixo.
 
+![image7.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img7.png)
+
+![image8.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img8.png)
+
 ```sh
 C:\Program Files\Microsoft Office
 ```
