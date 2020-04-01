@@ -35,11 +35,10 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 - Recursos adicionais serão instalados juntamente com o instalador (Setup.exe).
 
 # Instalação do Suplementos
-- Criar a estrutura de pastas: 
-```sh
-C:\Program Files\Microsoft Office\suplementos\
-```
 - Descompactar os arquivos na estrutura mensionada acima.
+
+![image6.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img6.png)
+
 - Executar o arquivo de instalação:
 ```sh
 C:\Program Files\Microsoft Office\suplementos\setup.exe
