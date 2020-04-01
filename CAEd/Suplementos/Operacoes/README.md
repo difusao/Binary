@@ -35,7 +35,7 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 - Recursos adicionais serão instalados juntamente com o instalador (Setup.exe).
 
 # Instalação do Suplementos
-- Descompactar os arquivos na estrutura mensionada acima.
+- Descompactar os arquivos na estrutura mensionada abaixo.
 
 ```sh
 C:\Program Files\Microsoft Office
