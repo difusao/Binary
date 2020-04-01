@@ -58,23 +58,25 @@ C:\Program Files\Microsoft Office\suplementos\setup.exe
 
 ![image8.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img8.png)
 
+# Recursos
+
 Barra de ferramentas: Operações
 
 ![image1.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img1.png)
 
-Conexão com MSSQL Server: Config
+Conexão com MSSQL Server: Config (01/04/2020)
 
 ![image2.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img2.png)
 
-Consulta SQL: Consulta
+Consulta SQL: Consulta (01/04/2020)
 
 ![image3.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img3.png)
 
-Exportar Planilha para formato CSV de layout específico: Exportar CSV
+Exportar Planilha para formato CSV de layout específico: Exportar CSV (01/04/2020)
 
 ![image4.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img4.png)
 
-Criar objetos do Portal: Objetos
+Criar objetos do Portal: Objetos (01/04/2020)
 
 ![image5.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img5.png)
 
