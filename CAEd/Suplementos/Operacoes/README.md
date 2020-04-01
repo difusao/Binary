@@ -1,6 +1,30 @@
 # CAEd Operações: Suplementos do Excel
 Ferramentas com Suplementos baseados em MS-Excel.
 
+# Counteúdo do arquivo .zip
+```sh
+Application Files\ExcelAddInOperacoes_1_0_0_0\Accessibility.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_0\CiaFiles.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_0\CiaForms.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_0\CiaRegedit.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_0\CIASecurity.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_0\ExcelAddInOperacoes.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_0\ExcelAddInOperacoes.dll.manifest
+Application Files\ExcelAddInOperacoes_1_0_0_0\ExcelAddInOperacoes.vsto
+Application Files\ExcelAddInOperacoes_1_0_0_0\Microsoft.Office.Tools.Common.v4.0.Utilities.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_1\Accessibility.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_1\CiaFiles.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_1\CiaForms.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_1\CiaRegedit.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_1\CIASecurity.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_1\ExcelAddInOperacoes.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_1\ExcelAddInOperacoes.dll.manifest
+Application Files\ExcelAddInOperacoes_1_0_0_1\ExcelAddInOperacoes.vsto
+Application Files\ExcelAddInOperacoes_1_0_0_1\Microsoft.Office.Tools.Common.v4.0.Utilities.dll.deploy
+ExcelAddInOperacoes.vsto
+setup.exe
+```
+
 # Codificação: C# para VSTO Suplementos do MSEXCEL
 Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
