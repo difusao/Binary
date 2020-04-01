@@ -1,5 +1,5 @@
-# Operações: Suplementos do Excel
-Ferramentas C# utilizando Suplementos do MS-Excel.
+# CAEd Operações: Suplementos do Excel
+Ferramentas com Suplementos baseados em MS-Excel.
 
 # Codificação: C# para VSTO Suplementos do MSEXCEL
 Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
@@ -21,5 +21,18 @@ C:\Program Files\Microsoft Office\suplementos\
 C:\Program Files\Microsoft Office\suplementos\setup.exe
 ```
 # Imagens
-![image9.png](https://github.com/difusao/CAEd/blob/DevTools/VBS/OPE/images/image9.png)
 
+- Barra de ferramentas: Operações
+![image9.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img1.png)
+
+- Conexão com MSSQL Server: Config
+![image9.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img2.png)
+
+- Consulta SQL: Consulta
+![image9.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img3.png)
+
+- Exportar Planilha para formato CSV de layout específico: Exportar CSV
+![image9.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img4.png)
+
+- Criar objetos do Portal: Objetos
+![image9.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img5.png)
