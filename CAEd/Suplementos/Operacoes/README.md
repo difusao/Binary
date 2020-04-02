@@ -80,7 +80,7 @@ Criar objetos do Portal: Objetos (01/04/2020)
 
 ![image5.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img5.png)
 
-Gráfico do Jira: Objetos (02/04/2020)
+Gráfico do Jira: Jira (02/04/2020)
 
 ![image9.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img9.png)
 
