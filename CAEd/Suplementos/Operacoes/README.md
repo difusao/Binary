@@ -70,6 +70,12 @@ Conexão com MSSQL Server: Config (01/04/2020)
 
 Consulta SQL: Consulta (01/04/2020)
 
+- 02/04/2020
+Adicionado mais um campo na query do layout 102.
+```sh
+FL_CAMPO_PADRAO
+```
+
 ![image3.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img3.png)
 
 Exportar Planilha para formato CSV de layout específico: Exportar CSV (01/04/2020)
@@ -81,6 +87,13 @@ Criar objetos do Portal: Objetos (01/04/2020)
 ![image5.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img5.png)
 
 Gráfico do Jira: Jira (02/04/2020)
+
+- 02/04/2020
+Local de download do Jira foi alterado para a pasta do usuário:
+```sh
+C:\Users\[USER]
+```
+
 
 ![image9.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img9.png)
 
