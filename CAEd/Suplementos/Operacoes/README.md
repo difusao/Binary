@@ -79,6 +79,8 @@ FL_CAMPO_PADRAO
 ![image3.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img3.png)
 
 Exportar Planilha para formato CSV de layout específico: Exportar CSV (01/04/2020)
+- 02/04/2019
+Corrigido o erro da exportação do arquivo CSV.
 
 ![image4.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img4.png)
 
@@ -89,6 +91,7 @@ Criar objetos do Portal: Objetos (01/04/2020)
 Gráfico do Jira: Jira (02/04/2020)
 
 - 02/04/2020
+Removido o link para download do filtro do Jira e adicionada entrada apenas para código do filtro.
 Local de download do Jira foi alterado para a pasta do usuário:
 ```sh
 C:\Users\[USER]
