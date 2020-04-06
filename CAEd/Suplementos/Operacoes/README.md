@@ -102,5 +102,10 @@ Local de download do Jira foi alterado para a pasta do usuário:
 C:\Users\[USER]
 ```
 
+- 06/04/2020
+
+Gráficos de Situação, Projeto e Rótulo adicionados.
+
+
 ![image9.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img9.png)
 
