@@ -38,11 +38,11 @@ CD_INDICADOR.exe
 - Copie a planilha ou somentes algumas células da planilha e clique em "colar". A aplicação vai inserir a planilha e comparar a coluna CD_INDICADOR com CD_INDICADOR da base dados.
 As linhas coloridas indicam que foram encontradas divergências entre os CD_INDICADOR da planilha e da base de dados.
 
-![img2.png](https://github.com/difusao/Binary/tree/master/CAEd/CD_INDICADOR/images/img2.png)
+![img2.png](images/img2.png)
 
 - Um arquivo com a lista de CD_INDICADOR será criado na área de trabalho.
 
-![img3.png](https://github.com/difusao/Binary/tree/master/CAEd/CD_INDICADOR/images/img3.png)
+![img3.png](images/img3.png)
 
 
 
