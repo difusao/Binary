@@ -4,9 +4,7 @@ Ferramentas que efetua a comparação dos códigos de indicadores com os código
 
 ## Arquivo que compõe a aplicação
 
-```sh
-CD_INDICADOR.exe
-```
+`CD_INDICADOR.exe`
 
 ## Codificação: MS Visual Studio C# 
 
@@ -21,17 +19,13 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 - Não é necessária a instalação da aplicação apenas executar com permissões de usuário padrão.
 
-```sh
-CD_INDICADOR.exe
-```
+`CD_INDICADOR.exe`
 
 ![image1.png](images/img1.png)
 
 - Executar o arquivo:
 
-```sh
-CD_INDICADOR.exe
-```
+`CD_INDICADOR.exe`
 
 ## Utilização da Aplicação
 
