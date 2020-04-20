@@ -35,8 +35,11 @@ CD_INDICADOR.exe
 
 # Utilização da Aplicação
 
-- Copie a planilha ou somentes algumas células da planilha e clique em "colar". A aplicação vai inserir a planilha e comparar a coluna CD_INDICADOR com CD_INDICADOR da base dados.
+- Selecione e copie toda a planilha ou somentes algumas células e na nesta aplicação clique no botão "Colar" e aguarde o processo "Finalizar". A aplicação vai inserir a planilha e comparar a coluna CD_INDICADOR com CD_INDICADOR da base dados do mesmo projeto.
+
 As linhas coloridas indicam que foram encontradas divergências entre os CD_INDICADOR da planilha e da base de dados.
+
+A barra de status contém as informações sobre o processo realizado.
 
 ![img2.png](images/img2.png)
 
