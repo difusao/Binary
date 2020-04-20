@@ -2,8 +2,9 @@
 
 Ferramentas que efetua a comparação dos códigos de indicadores com os códigos existentes em uma base MSSQL.
 
-# Arquivo executável
+# Arquivo que compõe a aplicação
 
+1 - 
 ```sh
 CD_INDICADOR.exe
 ```
