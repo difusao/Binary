@@ -25,7 +25,7 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 CD_INDICADOR.exe
 ```
 
-![img1.png](https://github.com/difusao/Binary/tree/master/CAEd/CD_INDICADOR/images/img1.png)
+![image1.png](https://github.com/difusao/Binary/tree/master/CAEd/CD_INDICADOR/images/img1.png)
 
 - Executar o arquivo:
 
