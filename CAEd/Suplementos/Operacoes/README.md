@@ -1,8 +1,8 @@
-# CAEd Operações: Suplementos do Excel
+## CAEd Operações: Suplementos do Excel
 
 Ferramentas com Suplementos baseados em MS-Excel.
 
-# Counteúdo do arquivo .zip
+## Counteúdo do arquivo .zip
 
 ```sh
 Application Files\ExcelAddInOperacoes_1_0_0_0\Accessibility.dll.deploy
@@ -27,38 +27,34 @@ ExcelAddInOperacoes.vsto
 setup.exe
 ```
 
-# Codificação: C# para VSTO Suplementos do MSEXCEL
+## Codificação: C# para VSTO Suplementos do MSEXCEL
 
 Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
-# Requisitos Mínimos
+## Requisitos Mínimos
 
 - Windows 7 ou mais atual.
 - MS .NET Framework 4.6.
 - MS Office com MS Excel 2007 ou superior (testado largamente na versão MS Excel 2007).
 - Recursos adicionais serão instalados juntamente com o instalador (Setup.exe).
 
-# Instalação do Suplementos
+## Instalação do Suplementos
 
 - Descompactar os arquivos na estrutura mensionada abaixo.
 
-```sh
-C:\Program Files\Microsoft Office
-```
+`C:\Program Files\Microsoft Office`
 
 ![image6.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img6.png)
 
 - Executar o arquivo de instalação:
 
-```sh
-C:\Program Files\Microsoft Office\suplementos\setup.exe
-```
+`C:\Program Files\Microsoft Office\suplementos\setup.exe`
 
 ![image7.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img7.png)
 
 ![image8.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img8.png)
 
-# Recursos
+## Recursos
 
 Barra de ferramentas: Operações
 
@@ -73,13 +69,22 @@ Consulta SQL: Consulta (01/04/2020)
 - 02/04/2020
 
 Adicionado mais um campo na query do layout 102.
-```sh
-FL_CAMPO_PADRAO
-```
+`FL_CAMPO_PADRAO`
+
+- 04/05/2020
+
+Adicionado mais um campo na query do layout 102.
+`DC_LINK`
 
 ![image3.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img3.png)
 
 Exportar Planilha para formato CSV de layout específico: Exportar CSV (01/04/2020)
+
+- 04/05/2020
+
+Adicionado mais layouts na exportação
+
+`new string[] { "001", "013", "014", "015", "016", "039", "040", "041", "043", "044", "045", "047", "048", "050", "051", "052", "053", "055", "069", "100", "101", "102", "103", "185", "201" };`
 
 - 02/04/2019
 
@@ -98,9 +103,7 @@ Gráfico do Jira: Jira (02/04/2020)
 Removido o link para download do filtro do Jira e adicionada entrada apenas para código do filtro.
 Local de download do Jira foi alterado para a pasta do usuário:
 
-```sh
-C:\Users\[USER]
-```
+`C:\Users\[USER]`
 
 - 06/04/2020
 
