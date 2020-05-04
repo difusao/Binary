@@ -92,7 +92,7 @@ Corrigido o erro da exportação do arquivo CSV.
 
 ![image4.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img4.png)
 
-Criar objetos do Portal: Objetos (01/04/2020)
+Criar objetos do Portal: Objetos (01/04/2020) *** DESCONTINUADO ***
 
 ![image5.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img5.png)
 
