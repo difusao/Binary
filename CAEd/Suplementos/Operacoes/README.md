@@ -60,6 +60,10 @@ Barra de ferramentas: Operações
 
 ![image1.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img1.png)
 
+Busca de indicadores (13/05/2020)
+
+![image10.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img10.png)
+
 Conexão com MSSQL Server: Config (01/04/2020)
 
 ![image2.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img2.png)
