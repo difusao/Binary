@@ -5,24 +5,15 @@ Ferramentas com Suplementos baseados em MS-Excel.
 ## Counteúdo do arquivo .zip
 
 ```sh
-Application Files\ExcelAddInOperacoes_1_0_0_0\Accessibility.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_0\CiaFiles.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_0\CiaForms.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_0\CiaRegedit.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_0\CIASecurity.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_0\ExcelAddInOperacoes.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_0\ExcelAddInOperacoes.dll.manifest
-Application Files\ExcelAddInOperacoes_1_0_0_0\ExcelAddInOperacoes.vsto
-Application Files\ExcelAddInOperacoes_1_0_0_0\Microsoft.Office.Tools.Common.v4.0.Utilities.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_1\Accessibility.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_1\CiaFiles.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_1\CiaForms.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_1\CiaRegedit.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_1\CIASecurity.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_1\ExcelAddInOperacoes.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_1\ExcelAddInOperacoes.dll.manifest
-Application Files\ExcelAddInOperacoes_1_0_0_1\ExcelAddInOperacoes.vsto
-Application Files\ExcelAddInOperacoes_1_0_0_1\Microsoft.Office.Tools.Common.v4.0.Utilities.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_26\Accessibility.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_26\CiaFiles.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_26\CiaForms.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_26\CiaRegedit.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_26\CIASecurity.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_26\ExcelAddInOperacoes.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_26\ExcelAddInOperacoes.dll.manifest
+Application Files\ExcelAddInOperacoes_1_0_0_26\ExcelAddInOperacoes.vsto
+Application Files\ExcelAddInOperacoes_1_0_0_26\Microsoft.Office.Tools.Common.v4.0.Utilities.dll.deploy
 ExcelAddInOperacoes.vsto
 setup.exe
 ```
@@ -88,7 +79,7 @@ Exportar Planilha para formato CSV de layout específico: Exportar CSV (01/04/20
 
 Adicionado mais layouts na exportação
 
-`new string[] { "001", "013", "014", "015", "016", "039", "040", "041", "043", "044", "045", "047", "048", "050", "051", "052", "053", "055", "069", "100", "101", "102", "103", "185", "201" };`
+`new string[] { "001", "013", "014", "015", "016", "039", "040", "041", "043", "044", "045", "047", "048", "050", "051", "052", "053", "055", "069", "100", "101", "102", "103", "183", "185", "201" };`
 
 - 02/04/2019
 
@@ -100,7 +91,7 @@ Criar objetos do Portal: Objetos (01/04/2020) *** DESCONTINUADO ***
 
 ![image5.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img5.png)
 
-Gráfico do Jira: Jira (02/04/2020)
+Gráfico do Jira: Jira (02/04/2020) *** DESCONTINUADO ***
 
 - 02/04/2020
 
@@ -111,7 +102,7 @@ Local de download do Jira foi alterado para a pasta do usuário:
 
 - 06/04/2020
 
-Gráficos de Situação, Projeto e Rótulo adicionados.
+Gráficos de Situação, Projeto e Rótulo adicionados. *** DESCONTINUADO ***
 
 
 ![image9.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img9.png)
