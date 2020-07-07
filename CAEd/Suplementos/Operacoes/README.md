@@ -61,6 +61,11 @@ Conexão com MSSQL Server: Config (01/04/2020)
 
 Consulta SQL: Consulta (01/04/2020)
 
+- 07/07/2020
+
+Adicionado campo para importação/exportação da tabela 102
+`DC_ACAO_CONDICAO_CONFIRMACAO`
+
 - 02/04/2020
 
 Adicionado mais um campo na query do layout 102.
