@@ -117,10 +117,12 @@ Gráficos de Situação, Projeto e Rótulo adicionados. *** DESCONTINUADO ***
 Foram adicionados os recursos de formatação e edição do campo por formulário.
 
 Menu de contexto.
-![image10.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img10.png)
+
+![img11.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img11.png)
 
 Edição de campo em modo Formulário
-![image11.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img11.png)
+
+![image12.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img12.png)
 
 
 
