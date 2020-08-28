@@ -120,7 +120,7 @@ Menu de contexto.
 
 ![img11.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img11.png)
 
-Edição de campo em modo Formulário
+Edição de campo em modo Formulário (Editar Linha atual no formulário)
 
 ![image12.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img12.png)
 
