@@ -47,88 +47,91 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 ## Recursos
 
-Barra de ferramentas: Operações
+- [x] Barra de ferramentas: Operações
 
 ![image1.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img1.png)
 
-Busca de indicadores (13/05/2020)
+-  (13/05/2020)
+
+- [x] Busca de indicadores.
 
 ![image10.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img10.png)
 
-Conexão com MSSQL Server: Config (01/04/2020)
+- (01/04/2020)
+
+- [x] Conexão com MSSQL Server: Config
 
 ![image2.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img2.png)
 
-Consulta SQL: Consulta (01/04/2020)
+- (01/04/2020)
+
+- [x] Consulta SQL: Consulta
 
 - 07/07/2020
 
-Adicionado campo para importação/exportação da tabela 102
-`DC_ACAO_CONDICAO_CONFIRMACAO`
+- [x] Adicionado campo para importação/exportação da tabela 102 `DC_ACAO_CONDICAO_CONFIRMACAO`
 
 - 02/04/2020
 
-Adicionado mais um campo na query do layout 102.
-`FL_CAMPO_PADRAO`
+- [x] Adicionado mais um campo na query do layout 102. `FL_CAMPO_PADRAO`
 
 - 04/05/2020
 
-Adicionado mais um campo na query do layout 102.
-`DC_LINK`
+- [x] Adicionado mais um campo na query do layout 102. `DC_LINK`
 
 ![image3.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img3.png)
 
-Exportar Planilha para formato CSV de layout específico: Exportar CSV (01/04/2020)
+- [x] Exportar Planilha para formato CSV de layout específico: Exportar CSV (01/04/2020)
 
 - 04/05/2020
 
-Adicionado mais layouts na exportação
+- [x] Adicionado mais layouts na exportação
 
 `new string[] { "001", "013", "014", "015", "016", "039", "040", "041", "043", "044", "045", "047", "048", "050", "051", "052", "053", "055", "069", "100", "101", "102", "103", "183", "185", "201" };`
 
 - 02/04/2019
 
-Corrigido o erro da exportação do arquivo CSV.
+- [x] Corrigido o erro da exportação do arquivo CSV.
 
 ![image4.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img4.png)
 
-Criar objetos do Portal: Objetos (01/04/2020) *** DESCONTINUADO ***
+- [x] Criar objetos do Portal: Objetos (01/04/2020) *** DESCONTINUADO ***
 
 ![image5.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img5.png)
 
-Gráfico do Jira: Jira (02/04/2020) *** DESCONTINUADO ***
+- [x] Gráfico do Jira: Jira (02/04/2020) *** DESCONTINUADO ***
 
 - 02/04/2020
 
-Removido o link para download do filtro do Jira e adicionada entrada apenas para código do filtro.
-Local de download do Jira foi alterado para a pasta do usuário:
+- [x] Removido o link para download do filtro do Jira e adicionada entrada apenas para código do filtro.
+- [x] Local de download do Jira foi alterado para a pasta do usuário:
 
 `C:\Users\[USER]`
 
 - 06/04/2020
 
-Gráficos de Situação, Projeto e Rótulo adicionados. *** DESCONTINUADO ***
+- [x] Gráficos de Situação, Projeto e Rótulo adicionados. *** DESCONTINUADO ***
 
 
 ![image9.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img9.png)
 
 - 28/08/2020
 
-Foram adicionados os recursos de formatação e edição do campo por formulário.
+- [x] Foram adicionados os recursos de formatação e edição do campo por formulário.
 
-Menu de contexto.
+- [x] Menu de contexto.
 
 ![img11.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img11.png)
 
-Edição de campo em modo Formulário (Editar Linha atual no formulário)
+- [x] Edição de campo em modo Formulário (Editar Linha atual no formulário)
 
 ![image12.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img12.png)
 
 - 08/09/2020
 
-Exibir dados de configuração da grid
+- [x] Exibir dados de configuração da grid
 
-Exibir dados do form
+- [x] Exibir dados do form
 
 ![image13.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img13.png)
 
