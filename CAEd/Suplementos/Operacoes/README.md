@@ -1,6 +1,6 @@
 ## CAEd Operações: Suplementos do Excel
 
-Ferramentas com Suplementos baseados em MS-Excel.
+> Ferramentas com Suplementos baseados em MS-Excel.
 
 ## Counteúdo do arquivo .zip
 
@@ -51,7 +51,7 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 ![image1.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img1.png)
 
--  (13/05/2020)
+> 13/05/2020
 
 - [x] Busca de indicadores.
 
@@ -95,23 +95,20 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 ![image4.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img4.png)
 
-- [x] Criar objetos do Portal: Objetos (01/04/2020) *** DESCONTINUADO ***
+- [x] ~~Criar objetos do Portal: Objetos (01/04/2020)~~ *** DESCONTINUADO ***
 
 ![image5.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img5.png)
 
-- [x] Gráfico do Jira: Jira (02/04/2020) *** DESCONTINUADO ***
+- [x] ~~Gráfico do Jira: Jira (02/04/2020)~~ *** DESCONTINUADO ***
 
 - 02/04/2020
 
 - [x] Removido o link para download do filtro do Jira e adicionada entrada apenas para código do filtro.
-- [x] Local de download do Jira foi alterado para a pasta do usuário:
-
-`C:\Users\[USER]`
+- [x] Local de download do Jira foi alterado para a pasta do usuário: `C:\Users\[USER]`
 
 - 06/04/2020
 
 - [x] Gráficos de Situação, Projeto e Rótulo adicionados. *** DESCONTINUADO ***
-
 
 ![image9.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img9.png)
 
