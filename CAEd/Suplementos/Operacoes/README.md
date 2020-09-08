@@ -95,11 +95,11 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 ![image4.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img4.png)
 
-- [x] ~~Criar objetos do Portal: Objetos (01/04/2020)~~ *** DESCONTINUADO ***
+- [x] ~~Criar objetos do Portal: Objetos (01/04/2020)~~ ***DESCONTINUADO***
 
 ![image5.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img5.png)
 
-- [x] ~~Gráfico do Jira: Jira (02/04/2020)~~ *** DESCONTINUADO ***
+- [x] ~~Gráfico do Jira: Jira (02/04/2020)~~ ***DESCONTINUADO***
 
 > 02/04/2020
 
@@ -108,7 +108,7 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 > 06/04/2020
 
-- [x] Gráficos de Situação, Projeto e Rótulo adicionados. *** DESCONTINUADO ***
+- [x] ~~Gráficos de Situação, Projeto e Rótulo adicionados.~~ ***DESCONTINUADO***
 
 ![image9.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img9.png)
 
