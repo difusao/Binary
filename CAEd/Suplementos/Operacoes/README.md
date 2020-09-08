@@ -57,25 +57,25 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 ![image10.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img10.png)
 
-- (01/04/2020)
+> 01/04/2020
 
 - [x] Conexão com MSSQL Server: Config
 
 ![image2.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img2.png)
 
-- (01/04/2020)
+> 01/04/2020
 
 - [x] Consulta SQL: Consulta
 
-- 07/07/2020
+> 07/07/2020
 
 - [x] Adicionado campo para importação/exportação da tabela 102 `DC_ACAO_CONDICAO_CONFIRMACAO`
 
-- 02/04/2020
+> 02/04/2020
 
 - [x] Adicionado mais um campo na query do layout 102. `FL_CAMPO_PADRAO`
 
-- 04/05/2020
+> 04/05/2020
 
 - [x] Adicionado mais um campo na query do layout 102. `DC_LINK`
 
@@ -83,13 +83,13 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 - [x] Exportar Planilha para formato CSV de layout específico: Exportar CSV (01/04/2020)
 
-- 04/05/2020
+> 04/05/2020
 
 - [x] Adicionado mais layouts na exportação
 
 `new string[] { "001", "013", "014", "015", "016", "039", "040", "041", "043", "044", "045", "047", "048", "050", "051", "052", "053", "055", "069", "100", "101", "102", "103", "183", "185", "201" };`
 
-- 02/04/2019
+> 02/04/2019
 
 - [x] Corrigido o erro da exportação do arquivo CSV.
 
@@ -101,18 +101,18 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 - [x] ~~Gráfico do Jira: Jira (02/04/2020)~~ *** DESCONTINUADO ***
 
-- 02/04/2020
+> 02/04/2020
 
 - [x] Removido o link para download do filtro do Jira e adicionada entrada apenas para código do filtro.
 - [x] Local de download do Jira foi alterado para a pasta do usuário: `C:\Users\[USER]`
 
-- 06/04/2020
+> 06/04/2020
 
 - [x] Gráficos de Situação, Projeto e Rótulo adicionados. *** DESCONTINUADO ***
 
 ![image9.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img9.png)
 
-- 28/08/2020
+> 28/08/2020
 
 - [x] Foram adicionados os recursos de formatação e edição do campo por formulário.
 
@@ -124,7 +124,7 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 ![image12.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img12.png)
 
-- 08/09/2020
+> 08/09/2020
 
 - [x] Exibir dados de configuração da grid
 
