@@ -124,5 +124,10 @@ Edição de campo em modo Formulário (Editar Linha atual no formulário)
 
 ![image12.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img12.png)
 
+Exibir dados de configuração da grid
+Exibir dados do form
+
+![image13.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img13.png)
+
 
 
