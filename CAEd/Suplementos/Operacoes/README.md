@@ -103,8 +103,8 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 > 02/04/2020
 
-- [x] Removido o link para download do filtro do Jira e adicionada entrada apenas para código do filtro.
-- [x] Local de download do Jira foi alterado para a pasta do usuário: `C:\Users\[USER]`
+- [x] ~~Removido o link para download do filtro do Jira e adicionada entrada apenas para código do filtro.~~
+- [x] ~~Local de download do Jira foi alterado para a pasta do usuário: `C:\Users\[USER]`~~
 
 > 06/04/2020
 
