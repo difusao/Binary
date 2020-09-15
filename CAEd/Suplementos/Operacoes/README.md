@@ -132,5 +132,16 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 ![image13.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img13.png)
 
+![image15.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img15.png)
+
+> 15/09/2020
+
+- [x] Compactar arquivo exportado
+
+- [x] Nomear colunas dos dados
+
+![image14.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img14.png)
+
+
 
 
