@@ -142,6 +142,20 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 ![image14.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img14.png)
 
+> 19/11/2020
+
+- Compara formulários entre projetos
+
+- [x] Compara Formulários.
+
+- [x] Compara campos de Formulários.
+
+![image16.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img16.png)
+
+![image17.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img17.png)
+
+![image18.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img18.png)
+
 
 
 
