@@ -156,6 +156,8 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 ![image18.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img18.png)
 
+![image19.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img19.png)
+
 
 
 
