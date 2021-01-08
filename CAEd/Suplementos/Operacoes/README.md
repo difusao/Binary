@@ -4,7 +4,7 @@
 
 ## Codificação: C# para VSTO Suplementos do MSEXCEL
 
-Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
+> Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 ## Requisitos Mínimos
 
