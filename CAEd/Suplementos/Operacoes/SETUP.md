@@ -5,15 +5,19 @@
 ## Counteúdo do arquivo .zip
 
 ```sh
-Application Files\ExcelAddInOperacoes_1_0_0_26\Accessibility.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_26\CiaFiles.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_26\CiaForms.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_26\CiaRegedit.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_26\CIASecurity.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_26\ExcelAddInOperacoes.dll.deploy
-Application Files\ExcelAddInOperacoes_1_0_0_26\ExcelAddInOperacoes.dll.manifest
-Application Files\ExcelAddInOperacoes_1_0_0_26\ExcelAddInOperacoes.vsto
-Application Files\ExcelAddInOperacoes_1_0_0_26\Microsoft.Office.Tools.Common.v4.0.Utilities.dll.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_152\Accessibility.dll.deploy*
+Application Files\ExcelAddInOperacoes_1_0_0_152\CIASecurity.dll.deploy*
+Application Files\ExcelAddInOperacoes_1_0_0_152\CiaDB.dll.deploy*
+Application Files\ExcelAddInOperacoes_1_0_0_152\CiaFiles.dll.deploy*
+Application Files\ExcelAddInOperacoes_1_0_0_152\CiaForms.dll.deploy*
+Application Files\ExcelAddInOperacoes_1_0_0_152\CiaRegedit.dll.deploy*
+Application Files\ExcelAddInOperacoes_1_0_0_152\ExcelAddInOperacoes.dll.deploy*
+Application Files\ExcelAddInOperacoes_1_0_0_152\ExcelAddInOperacoes.dll.manifest
+Application Files\ExcelAddInOperacoes_1_0_0_152\ExcelAddInOperacoes.vsto
+Application Files\ExcelAddInOperacoes_1_0_0_152\Icon_1.ico.deploy
+Application Files\ExcelAddInOperacoes_1_0_0_152\Microsoft.Office.Tools.Common.v4.0.Utilities.dll.deploy*
+Application Files\ExcelAddInOperacoes_1_0_0_152\adodb.dll.deploy*
+Application Files\ExcelAddInOperacoes_1_0_0_152\publicTalk.ico.deploy
 ExcelAddInOperacoes.vsto
 setup.exe
 ```
