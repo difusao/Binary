@@ -15,9 +15,9 @@ Ferramenta desenvolvida em MS Visual Studio C# para VSTO MSEXCEL.
 
 ## Etapas
 
-> [Instalação](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/SETUP.md)
-> [Recursos](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/RESOURCES.md)
-> [Recursos descontinuados](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/DISCONTINUED.md)
+- [Instalação](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/SETUP.md).
+- [Recursos](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/RESOURCES.md).
+- [Recursos descontinuados](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/DISCONTINUED.md).
 
 
 
