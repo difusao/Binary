@@ -19,7 +19,8 @@
 - [Recursos](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/RESOURCES.md).
 - [Recursos descontinuados](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/DISCONTINUED.md).
 
-
+## Imagens
+![img1.png](https://github.com/difusao/Binary/blob/master/CAEd/Suplementos/Operacoes/images/img1.png)
 
 
 
